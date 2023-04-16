@@ -2,6 +2,7 @@
 streamlit
 numpy
 scikit-learn
+scipy
 
 ### local packages -
 -e . 
